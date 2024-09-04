@@ -5,7 +5,7 @@ I'm Juan Valero, mathematician and data expert. I love to listen and learn about
 ### Audio & Music Projects
 - I am building [deepdiggin](https://github.com/jvaleroliet/deepdiggin), a deep learning application that accurately classifies vinyl records condition based on audio analysis, utilizing the Goldmine Grading Standard. Demo + info of the project can be found [here](https://jvaleroliet.github.io/projects/deepdiggin/).
 
-- I made an in-depth analysis of my 14 (!) years of Spotify listening habits, revealing my personal music preferences and consumption patterns over time. All the info is on my [portfolio](https://jvaleroliet.github.io/projects/spotify_data/), with ML-created-playlists, and you can recreate it for your music history cloning this [repo](https://github.com/jvaleroliet/spotify-analysis).
+- I made an in-depth analysis of my 14 (!) years of Spotify listening habits, revealing my personal music preferences and consumption patterns over time. All the info is on my [portfolio](https://jvaleroliet.github.io/projects/spotify_data/), with ML-created-playlists, and you can recreate it for your music history by cloning this [repo](https://github.com/jvaleroliet/spotify-analysis).
 
 - I have a musical project called [Sono Mayrit](https://sonomayrit.xyz). The page is build in markdown and the code can be found [here](https://github.com/jvaleroliet/sonomayrit).
 
