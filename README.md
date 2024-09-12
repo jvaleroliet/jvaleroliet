@@ -20,7 +20,7 @@ I'm Juan, a passionate mathematician and data expert with a deep love for music,
 ### Audio & Music Projects
 - I am building [deepdiggin](https://github.com/jvaleroliet/deepdiggin), a deep learning application that accurately classifies vinyl records condition based on audio analysis, utilizing the Goldmine Grading Standard. Demo + info of the project can be found [here](https://jvaleroliet.github.io/projects/deepdiggin/).
 
-- I made a EDM genre classifier, based on pytorch. You can have a look to the code [here](https://github.com/jvaleroliet/music_classificator) and try it live on [huggin face](https://huggingface.co/spaces/jvalero/edm_genre_classificator).
+- I have coded an [EDM genre classifier](https://github.com/jvaleroliet/music_classificator), based on pytorch. You can try it live on [huggin face](https://huggingface.co/spaces/jvalero/edm_genre_classificator).
 
 - I made an in-depth analysis of my 14 (!) years of Spotify listening habits, revealing my personal music preferences and consumption patterns over time. All the info is on my [portfolio](https://jvaleroliet.github.io/projects/spotify_data/), with ML-created-playlists, and you can recreate it for your music history by cloning this [repo](https://github.com/jvaleroliet/spotify-analysis).
 
