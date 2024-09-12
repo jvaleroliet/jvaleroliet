@@ -1,6 +1,21 @@
 ## Hola 👋
 
-I'm Juan, a passionate mathematician and data expert with a deep love for music, radio shows, and cycling adventures.
+<p align='center'>
+<a href="https://img.shields.io/badge/-pytorch-lightgray?logo=pytorch"><img src="https://img.shields.io/badge/-pytorch-lightgray?logo=pytorch"/></a>
+<a href="https://img.shields.io/badge/-torchaudio-yellow?logo=pytorch"><img src="https://img.shields.io/badge/-torchaudio-yellow?logo=pytorch" /></a>
+<a href="https://img.shields.io/badge/-torchvision-blue?logo=pytorch"><img src="https://img.shields.io/badge/-torchvision-blue?logo=pytorch"/></a>
+<a href="https://img.shields.io/badge/-scikitlearn-lightblue?logo=scikitlearn"><img src="https://img.shields.io/badge/-scikitlearn-lightblue?logo=scikitlearn"/></a>
+<a href="https://img.shields.io/badge/-scipy-white?logo=scipy"><img src="https://img.shields.io/badge/-scipy-white?logo=scipy"/></a>
+<a href="https://img.shields.io/badge/-pandas-black?logo=pandas"><img src="https://img.shields.io/badge/-pandas-black?logo=pandas"/></a>
+<a href="https://img.shields.io/badge/-numpy-green?logo=numpy"><img src="https://img.shields.io/badge/-numpy-green?logo=numpy"/></a>
+<a href="https://img.shields.io/badge/-plotly-orange?logo=plotly"><img src="https://img.shields.io/badge/-plotly-orange?logo=plotly"/></a>
+
+
+  
+</p>
+
+I'm Juan, a passionate mathematician and data expert with a deep love for music, sound processing, and radio shows.
+
 
 ### Audio & Music Projects
 - I am building [deepdiggin](https://github.com/jvaleroliet/deepdiggin), a deep learning application that accurately classifies vinyl records condition based on audio analysis, utilizing the Goldmine Grading Standard. Demo + info of the project can be found [here](https://jvaleroliet.github.io/projects/deepdiggin/).
